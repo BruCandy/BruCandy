@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi there, I'm BruCandy!
+
+Welcome to my GitHub profile! Check out my portfolio by clicking the link below:
 
 <!--
 **BruCandy/BruCandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
