@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! <!-- Check out my portfolio by clicking the link below:
 [My Portfolio](https://my-portfolio-orcin-alpha-27.vercel.app/) -->
+I write technical articles on Qiita:  
+[Check out my Qiita articles](https://qiita.com/BruCandy)
 
 
 - 🌱 I’m currently learning ...low-level technology
@@ -15,6 +17,7 @@ Welcome to my GitHub profile! <!-- Check out my portfolio by clicking the link b
 - TypeScript
 - Verilog
 - OCaml
+
 
 <!--
 **BruCandy/BruCandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
