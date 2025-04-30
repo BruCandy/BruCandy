@@ -9,15 +9,17 @@ I write technical articles on Qiita:
 
 - 🌱 I’m currently learning ...low-level technology
 
-### Programming Languages I Have Used
+### Programming Language
 
 - C
 - C#
 - Java
 - Python
 - TypeScript
-- Verilog
 - OCaml
+
+### Hardware Description Language
+- Verilog
 
 
 <!--
