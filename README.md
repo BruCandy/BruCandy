@@ -1,18 +1,18 @@
 ## 👋 Hi there, I'm BruCandy!
 
-Welcome to my GitHub profile! <!-- Check out my portfolio by clicking the link below:
-[My Portfolio](https://my-portfolio-orcin-alpha-27.vercel.app/) -->
+Welcome to my GitHub profile! 
 
 I write technical articles on Qiita:  
 [Check out my Qiita articles](https://qiita.com/BruCandy)
 
 
 - 🌱 I’m currently learning ...low-level technology
+- Linux, FPGA, Machine Learning
 
 ### Programming Language
 
 - C
-- C#
+- C++
 - Java
 - Python
 - TypeScript
@@ -20,6 +20,13 @@ I write technical articles on Qiita:
 
 ### Hardware Description Language
 - Verilog
+
+
+
+
+
+
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BruCandy)](https://github.com/anuraghazra/github-readme-stats)
