@@ -1,22 +1,20 @@
 ## 👋 Hi there, I'm BruCandy!
 
-Welcome to my GitHub profile! 
+There’s nothing more sad than not being able to make use of what I've learned in my work...
 
-I write technical articles on Qiita:  
+I write articles on Qiita:  
 [Check out my Qiita articles](https://qiita.com/BruCandy)
 
 
-- 🌱 I’m currently learning ...low-level technology
-- Linux, FPGA, Machine Learning
+- I’m currently learning ... low-level technology
+- KeyWord ... Linux, FPGA, Machine Learning
 
 ### Programming Language
 
 - C
 - C++
-- Java
 - Python
 - TypeScript
-- OCaml
 
 ### Hardware Description Language
 - Verilog
