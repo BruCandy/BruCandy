@@ -1,13 +1,11 @@
 ## 👋 Hi there, I'm BruCandy!
 
-There’s nothing more sad than not being able to make use of what I've learned in my work...
-
 I write articles on Qiita:  
 [Check out my Qiita articles](https://qiita.com/BruCandy)
 
 
 - I’m currently learning ... low-level technology
-- KeyWord ... Linux, FPGA, Machine Learning
+- KeyWord ... Linux, FPGA, Machine Learning, Image Compression
 
 ### Programming Language
 
