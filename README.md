@@ -5,7 +5,7 @@ I write articles on Qiita:
 
 
 - I’m currently learning ... low-level technology
-- KeyWord ... Linux, FPGA, Machine Learning, Image Compression
+- KeyWord ... Low Level Technology, Machine Learning, Computer Vision
 
 ### Programming Language
 
