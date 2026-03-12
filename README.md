@@ -5,7 +5,7 @@ I write articles on Qiita:
 
 
 - I’m currently learning ... low-level technology
-- KeyWord ... Low Level Technology, Machine Learning, Computer Vision
+- KeyWord ... Low Level Technology, Machine Learning, Computer Graphics
 
 ### Programming Language
 
